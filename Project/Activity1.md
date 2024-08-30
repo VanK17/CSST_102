@@ -25,3 +25,30 @@
 
 ###Solution
 **Decentralized Learning Approach:** Allows the system not to share raw data of the patients records, protecting their privacy. 
+
+
+# Finance
+
+### Problem
+
+**Problem being Addressed:** The increasing risk of attacks or fraudalent activities that required necessity for immediate detection, protection and detection.
+
+### Machine Learning Approach
+**Unsupervised Learning:** Anomaly detection using cluster algorithms. 
+**Possible Supervised Learning:** After detecting the possible Anomality on the system, supervised learning can be used to classify, and protect different transactions.
+
+### Impact
+**Users Outcome:** Enhanced security and safe transactions that may boost their trust.
+
+### Challenge
+**Main Problem:** High numbers of false positives transactions may result in legitimate transactions being mistakenly flagged as fraudulent and making transactions more vulnerable.
+
+###Solution
+**Hybrid Learning Approach:** Enhanced supervised learning to refine anomaly detection accuracy, reducing false possitive transactions. 
+
+
+
+
+
+
+
