@@ -1,4 +1,6 @@
 # CSST Laboratory Activity 1
+### Vanesse V. Reyes
+### BSCS - 3B
 ## Introduction to Machine Learning
 ### Overview of Machine Learning Applications Objective: Familiarize students with various applications of machine learning in real-world scenarios.
 ### Objective: To Explore Real Life Scenarios and Applications
