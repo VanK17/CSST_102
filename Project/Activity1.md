@@ -3,6 +3,8 @@
 ### Overview of Machine Learning Applications Objective: Familiarize students with various applications of machine learning in real-world scenarios.
 ### Objective: To Explore Real Life Scenarios and Applications
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pf0JhrC9g60/0.jpg)](https://youtu.be/pf0JhrC9g60)
+
 **Healthcare**
 **Financing**
 **Modernization**
