@@ -4,5 +4,4 @@ This is the compilation of CSST_102 activities, all of the files here are for ed
 
 **Name:** Vanesse Reyess
 
-
-**Section** BSCS - 3B
+**Section:** BSCS - 3B
