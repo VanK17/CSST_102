@@ -66,6 +66,8 @@
 ### Solution
 **Hybrid Learning Approach:**  It unifies the reinforcement learning with rule-based system to make safe and precise decisions.
 
+# Summary
+
 **Executive Summary:** ML is leading innovation in healthcare, finance and self-driving systems. Every application uses a different learning paradigms and has the potential of using unsupervised learning as well for more profound insights. Anyhow, as these technologies solve some important issues they do bring in challenges and so the need of a design thinking.
 
 **Future Directions:** Support further investigation for unattended acquisition to bring novel prospects in the integration and resolution of existing issues.
