@@ -47,7 +47,24 @@
 **Hybrid Learning Approach:** Enhanced supervised learning to refine anomaly detection accuracy, reducing false possitive transactions. 
 
 
+# Autonomous Systems - Advanced Driver Assistance Systems (ADAS)
 
+### Problem
+
+**Problem being Addressed:** For autonomus navigation in complex and unpredicatble environment 
+
+### Machine Learning Approach
+**Reinforcement Learning:** Real-time decision-making in the driving environments with deep reinforcement learning.
+**Possible Supervised Learning:** There's also potential to use unsupervised learning to identify trends in driving behavior and environmental attributes, which could enhance the navigation systems and decision-making power of an autonomous system when crunching through unfamiliar scenarios.
+
+### Impact
+**Road Safety:**  Improved road safety, reduced traffic accidents, and potential transformation of urban mobility.
+
+### Challenge
+**Main Problem:** Ensuring real-time decisions are correct — especially in edge cases where the unexpected happens.
+
+### Solution
+**Hybrid Learning Approach:**  It unifies the reinforcement learning with rule-based system to make safe and precise decisions.
 
 
 
