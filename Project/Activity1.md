@@ -27,7 +27,7 @@
 **Decentralized Learning Approach:** Allows the system not to share raw data of the patients records, protecting their privacy. 
 
 
-# Finance
+# Finance - Real-Time Fraud Detection
 
 ### Problem
 
