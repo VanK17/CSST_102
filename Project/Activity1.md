@@ -43,7 +43,7 @@
 ### Challenge
 **Main Problem:** High numbers of false positives transactions may result in legitimate transactions being mistakenly flagged as fraudulent and making transactions more vulnerable.
 
-###Solution
+### Solution
 **Hybrid Learning Approach:** Enhanced supervised learning to refine anomaly detection accuracy, reducing false possitive transactions. 
 
 
