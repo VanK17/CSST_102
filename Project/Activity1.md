@@ -5,9 +5,11 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pf0JhrC9g60/0.jpg)](https://youtu.be/pf0JhrC9g60)
 
-**Healthcare**
-**Financing**
-**Modernization**
+## Healthcare
+
+## Financing
+
+## Modernization
 
 # Healthcare - Disease Diagnosis and Analytics 
 
